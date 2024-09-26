@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "178341894fb586fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d897b1db04a96a88",
+        "type": "split",
+        "children": [
+          {
+            "id": "0bd3158963870bf4",
+            "type": "split",
+            "dimension": 75.72815533980582,
+            "children": [
+              {
+                "id": "83fc90a8ce20842a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b6fc133e25645e8a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "天体和宇宙.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "615b291cd3e7bf9c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "恒星.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b443d8eacb412fd9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "天体和宇宙.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "2d0aef65d99b86e4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "物质界.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 2
+              },
+              {
+                "id": "522f84fe238dd4d7",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6dae10c85e145634",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "a83d1fb5df01959f",
+            "type": "tabs",
+            "dimension": 24.271844660194173,
+            "children": [
+              {
+                "id": "876d9a8d9cef152c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "目录.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96bc92664f4fb0af",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ce72144414431b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f31e341650d292",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e5ee7ea03569c3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#天体的种类包括以下内容",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39d9777882f7805d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ae82331bdd53c55d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5180d338ad619ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fae384b7384ef2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "天体和宇宙.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fe659413df923d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "天体和宇宙.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47bf3a9b986dcc13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "579d02b3a5c89ae0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "天体和宇宙.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b443d8eacb412fd9",
+  "lastOpenFiles": [
+    "恒星.md",
+    "天体和宇宙.md",
+    "物质界.md",
+    "天体解构·群星的生与死.md",
+    "目录.md",
+    "过去的纪元.md",
+    "序.md",
+    "欢迎.md",
+    "创建链接.md"
+  ]
+}
