@@ -4,9 +4,31 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#第一纪的神  ",
+      "color": {
+        "a": 1,
+        "rgb": 4673279
+      }
+    },
+    {
+      "query": "tag:#双子神  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#混沌t0  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762209
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224421,
+  "scale": 0.7132754626224489,
   "close": true
 }
